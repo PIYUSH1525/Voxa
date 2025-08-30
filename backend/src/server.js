@@ -18,3 +18,5 @@ app.get("/api/auth/logout",(req,res)=>{
 app.listen(PORT,()=>{
     console.log(`server is running on ${PORT}`);
 }) 
+
+//basic
